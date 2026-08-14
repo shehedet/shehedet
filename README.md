@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=200&pause=50&multiline=true&repeat=false&width=435&lines=%3E+.%2Fshehedet%40GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&multiline=true&repeat=false&width=435&lines=%3E+.%2Fshehedet%40GitHub)](https://git.io/typing-svg)
 ```text
                 @@@@@@@@@@@@@@                                 ````````````````````````````````````````````````````````
              @@@@@@        @@@@@@                              name:                          A. K. M. Shahadat Hossain
