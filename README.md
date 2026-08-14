@@ -1,16 +1,14 @@
-## Hi there 👋
+```text
+                    @..@                          shehedet@github
+                   (----)                         ----------------
+                  ( >__< )                        Name: A. K. M. Shahadat Hossain
+                  ^^ ~~ ^^                        Role: CSE Student
+                                                  University: BRAC University
 
-<!--
-**shehedet/shehedet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                  Languages: Python, JavaScript, SQL
+                                                  Interests: AI/ML, Data Science, Software Engineering
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                  Editor: VS Code
+                                                  OS: Arch Linux
+                                                  Shell: zsh
+```
