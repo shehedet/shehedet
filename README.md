@@ -18,7 +18,7 @@
             @@@@@  @@    @@  @@@@@     
                @@@@@@    @@@@@@                
 ```
-```
+```ansi
  [1;31mThis text is Bold Red [0m
  [1;32mThis text is Bold Green [0m
  [1;34mThis text is Bold Blue [0m
